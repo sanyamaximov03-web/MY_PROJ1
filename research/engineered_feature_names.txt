@@ -1,0 +1,10 @@
+numeric_poly__year
+numeric_poly__km_driven
+numeric_poly__year^2
+numeric_poly__year km_driven
+numeric_poly__km_driven^2
+categorical__name
+categorical__fuel
+categorical__seller_type
+categorical__transmission
+categorical__owner

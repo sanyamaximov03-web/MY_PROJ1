@@ -1,0 +1,5 @@
+numeric_poly__year
+numeric_poly__year^2
+categorical__name
+categorical__fuel
+categorical__transmission
