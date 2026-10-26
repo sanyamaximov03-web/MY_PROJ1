@@ -1,8 +1,13 @@
 *.csv
 *.pkl
 *.pickle
+data/*
+__pycache__/
+*.pyc
 
 .venv*/
 venv/
 
 
+
+eda/eda_summary.md
